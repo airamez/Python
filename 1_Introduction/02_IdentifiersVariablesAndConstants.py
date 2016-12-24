@@ -1,4 +1,4 @@
-'''
+"""
 IDENTIFIERS
 An identifier is a name used to identify something in a program.
 In Python an identifier is case sensitive, and starts with a letter, or
@@ -13,10 +13,7 @@ break     except    import    print
 class     exec      in        raise
 continue  finally   is        return
 def       for       lambda    try
-
-VARIABLES and CONSTANTS
-A variable in Python doesn't need a type and the assigned value will define the variable type
-'''
+"""
 
 # Integer
 age = 44  # Declaring and assigning an integer value
@@ -66,3 +63,16 @@ print(type(variable))
 
 variable = 'We love coding'
 print(type(variable))
+
+# Interesting concept
+a = 1
+b = a
+print(a, b)
+b = 2
+print(a, b)
+
+a = "Leila"
+b = a
+print(a, b)
+b = "Artur"
+print(a, b)
