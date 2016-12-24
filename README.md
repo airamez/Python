@@ -1,4 +1,5 @@
 # This is complete course of coding using python as programming language
+# Enjoy it
 
 ## Why python: http://bfy.tw/7YCy
 ## Homepage: https://www.python.org/
