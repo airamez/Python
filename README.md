@@ -1,4 +1,4 @@
-# This is complete course of coding using python as programming language
+# This is a complete course of coding using python as programming language
 
 ## Why python: http://bfy.tw/7YCy
 ## Homepage: https://www.python.org/
@@ -16,12 +16,13 @@
      * Cast and Type Conversion
      * If/else statement
      * Looping
-     * Modularization
-     * Strings
-     * Exceptions
+     * Function
+     * Module
+     * String
+     * Exception
      * Array
      * Matrix
-     * Collections
+     * Collection
      * Unit test
   2. Version Source Control
   3. Object Oriented Programming
