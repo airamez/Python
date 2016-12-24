@@ -21,6 +21,7 @@ This is complete course of coding using python
     1.9  - Exceptions
     1.10 - Array
     1.11 - Matrix
+    1.12 - Collections
     1.13 - Unit test
   2 - Object Oriented Programming
   3 - Data Structures
@@ -28,5 +29,6 @@ This is complete course of coding using python
   5 - SQL
   6 - GUI
   7 - WEB
-  
-* Files: http://www.learncode.ca/files/Aprendendo_a_Programar.zip
+
+* Files: https://github.com/airamez/Python
+         https://github.com/airamez/Python/archive/master.zip

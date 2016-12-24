@@ -32,7 +32,7 @@ print("INTEGER DIVISION")
 print(7 // 2)
 print(10 // 3)
 
-print("REMAINDER")
+print("REMAINDER/MOD")
 print("7 % 2 =", 7 % 2)
 print("3 % 2 =", 3 % 2)
 print("4 % 2 =", 4 % 2)
@@ -56,10 +56,13 @@ print("AUGMENTED ASSIGNMENT")
 # += -= *= /=
 number = 5
 print(number)
+
 number += 1
 print(number)
+
 number += 5
 print(number)
+
 number += number
 print(number)
 
@@ -114,6 +117,6 @@ print("Round 3.999 = ", round(3.999, 2))
 
 print("RANDOM NUMBERS")
 import random  # The import should be at the begin of the file
-# Generating a random number between 1 and 10 (inclusive)
+# Generating a random integer number between 1 and 10 (inclusive)
 randomInteger = random.randint(1, 10)
 print("Random number from 1 to 10 = {0}".format(randomInteger))

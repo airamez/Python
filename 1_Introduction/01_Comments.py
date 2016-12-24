@@ -3,7 +3,7 @@
 print("Hello World")  # This will print "Hello world"
 
 '''
-Mutiple lines commment
+Multiple lines comment
 Line 1
 Line 2
 Line 3

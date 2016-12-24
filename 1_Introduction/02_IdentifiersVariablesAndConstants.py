@@ -34,15 +34,17 @@ print(approved)
 
 # String variables
 name = "José Santos"  # A string constant is define by " or '
+name = 'José Santos'
 print(name)
 
 course = 'Learning Python'
 print(course)
 
-essay = '''First line
-Second Line
-Third Line
-Fourth Line'''
+# Multiple lines string constant
+essay = '''Family
+José Santos
+Leila Rodrigues
+Artur Rodrigues'''
 print(essay)
 
 # Escape characters
