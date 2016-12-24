@@ -5,26 +5,24 @@
 ## Documentation: https://docs.python.org/3/
 
 ## Python and Integrated Development Environment (IDE)
-
   1. Python Interpreter: (https://www.python.org/downloads/)
   2. PyCharm Community Edition: (https://www.jetbrains.com/pycharm/download/)
 
 ## Content
-
   1. Introduction to coding
-    * Identifiers, Variables and Constants
-    * Input/Output
-    * Basic Operations
-    * Cast and Type Conversion
-    * If/else statement
-    * Looping
-    * Modularization
-    * Strings
-    * Exceptions
-    * Array
-    * Matrix
-    * Collections
-    * Unit test
+     * Identifiers, Variables and Constants
+     * Input/Output
+     * Basic Operations
+     * Cast and Type Conversion
+     * If/else statement
+     * Looping
+     * Modularization
+     * Strings
+     * Exceptions
+     * Array
+     * Matrix
+     * Collections
+     * Unit test
   2. Object Oriented Programming
   3. Data Structures
   4. Python API
