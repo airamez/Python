@@ -120,3 +120,5 @@ import random  # The import should be at the begin of the file
 # Generating a random integer number between 1 and 10 (inclusive)
 randomInteger = random.randint(1, 10)
 print("Random number from 1 to 10 = {0}".format(randomInteger))
+
+print("Practices")

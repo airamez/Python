@@ -29,3 +29,5 @@ print('3', end='')
 print('4', end='')
 print('5', end='')
 
+print("Practices")
+

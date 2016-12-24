@@ -29,7 +29,6 @@ myString = str(145.67)
 print(myString)
 
 # One variable could received different types
-
 myVariable = 10
 print(myVariable)
 
@@ -42,6 +41,6 @@ print(myVariable)
 myVariable = True
 print(myVariable)
 
-
+print("Practices")
 
 
