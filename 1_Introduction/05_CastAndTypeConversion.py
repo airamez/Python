@@ -10,7 +10,7 @@ myInteger = int("145")  # Integer from string
 print(myInteger)
 
 # Show the error
-myInteger = int("145.67")
+# myInteger = int("145.67")
 print(myInteger)
 
 myFloat = float("145")
