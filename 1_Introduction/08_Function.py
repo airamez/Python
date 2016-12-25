@@ -32,7 +32,7 @@ def get_salutation(name: str, hour: int) -> str:
     """
     This function returns the proper salutation based on the hour
     :param name: Name
-    :param hour: Hoour
+    :param hour: Hour
     :return: Proper salutation for the hour
     """
     if hour <= 12:

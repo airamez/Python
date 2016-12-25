@@ -1,5 +1,6 @@
 # INPUT
 name = input("Type your name: ")  # The input command always returns an string
+# The + operator can be used to concatenate strings
 print("Hello " + name + ", welcome to the Learning Python course")
 
 age = int(input("What is your age: "))  # As we want an integer we need to convert the result of the input to int

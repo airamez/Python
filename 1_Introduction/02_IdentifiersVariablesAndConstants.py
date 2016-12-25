@@ -17,7 +17,7 @@ def       for       lambda    try
 
 # Integer
 age = 44  # Declaring and assigning an integer value
-print(age)
+print(age)  # Prints to the default output
 
 # Floating point
 payment = 345.67
@@ -30,21 +30,37 @@ approved = False
 print(approved)
 
 # String variables
-name = "José Santos"  # A string constant is define by " or '
+name = "José Santos"  # A string constant is define by ', ", ''' or """
+print(name)
 name = 'José Santos'
+print(name)
+name = """José Santos"""
 print(name)
 
 course = 'Learning Python'
 print(course)
 
 # Multiple lines string constant
-essay = '''Family
-José Santos
-Leila Rodrigues
-Artur Rodrigues'''
-print(essay)
+family = '''Family:
+'José' "Santos"
+'Leila' "Rodrigues"
+'Artur' "Rodrigues"'''
+print(family)
 
-# Escape characters
+family = """Family:
+"José" 'Santos'
+"Leila" 'Rodrigues'
+"Artur" 'Rodrigues'"""
+print(family)
+
+family = "Family: " \
+        "José Santos; " \
+        "Leila Rodrigues; " \
+        "Artur Rodrigues"
+print(family)
+
+
+# Escape characters:
 content = "Content\n\t - Item 1\n\t - Item 2\n\t\t - Item 2.1\n\t - Item 3"
 print(content)
 
