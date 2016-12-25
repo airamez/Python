@@ -1,2 +1,5 @@
-# Set the default behavior, in case people don't have core.autocrlf set.
-* text=auto
+*.txt eol=crlf
+*.html eol=crlf
+*.css eol=crlf
+*.js eol=crlf
+*.py eol=crlf
