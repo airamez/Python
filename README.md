@@ -20,9 +20,7 @@
      * Module
      * String
      * Exception
-     * Array
-     * Matrix
-     * Collection
+     * List
      * Unit test
   2. Version Source Control
   3. Object Oriented Programming
