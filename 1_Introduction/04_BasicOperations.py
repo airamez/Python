@@ -20,6 +20,12 @@ print("SUBTRACTION")
 number4 = number1 - number3
 print("{0} - {1} = {2}".format(number1, number3, number4))
 
+print("Negative")
+number = 10
+print(number)
+number = -number
+print(number)
+
 print("MULTIPLICATION")
 number5 = number1 * number2 * 2
 print("{0} x {1} x 2 = {2}".format(number1, number2, number5))
@@ -41,6 +47,9 @@ print("3 % 7 =", 3 % 7)
 print("DIV/MOD")
 division = divmod(7, 2)
 print(division[0], division[1])
+
+print("power")
+print("2**10 = ", 2**10)
 
 print("OPERATION PRIORITY")
 average = (number1 + number2 + number3) / 3
@@ -72,7 +81,7 @@ print("ARITHMETIC OPERATIONS")
 import math  # The import should be at the begin of the file
 
 # Power
-print("2^8 = ", math.pow(2, 8))
+print("2^10 = ", math.pow(2, 10))
 
 print("SQUARE ROOT")
 print("25 square root = ", math.sqrt(25))

@@ -1,6 +1,6 @@
 # This is a complete course of coding using python as programming language
 
-## Why python: http://bfy.tw/7YCy
+## Why python: Google
 ## Homepage: https://www.python.org/
 ## Documentation: https://docs.python.org/3/
 
