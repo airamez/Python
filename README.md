@@ -2,8 +2,9 @@
 # The goal of this course is to fill the gap of books and tutorials about coding focusing on practical application of the fundamentals topics
 
 ## Why python: Google :P
-## Homepage: https://www.python.org/
-## Documentation: https://docs.python.org/3/
+## Python
+  * Homepage: https://www.python.org/
+  * Documentation: https://docs.python.org/3/
 
 ## Getting ready
   1. Python Interpreter: (https://www.python.org/downloads/)
