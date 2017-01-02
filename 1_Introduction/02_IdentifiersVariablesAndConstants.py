@@ -34,10 +34,10 @@ name = "José Santos"  # A string constant is define by ', ", ''' or """
 print(name)
 name = 'José Santos'
 print(name)
-name = """José Santos"""
+name = """'José' "Santos" """
 print(name)
 
-course = 'Learning Python'
+course = '''Learning '"Python"'''
 print(course)
 
 # Multiple lines string constant

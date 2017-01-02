@@ -1,19 +1,20 @@
 # This is a complete course of coding using python as programming language
+# The goal of this course is to fill the gap of books and tutorials about coding
+# focusing on practical application of the fundamentals topics
 
-## Why python: Google
+## Why python: Google :P
 ## Homepage: https://www.python.org/
 ## Documentation: https://docs.python.org/3/
 
-## Python and Integrated Development Environment (IDE)
+## Getting ready
   1. Python Interpreter: (https://www.python.org/downloads/)
   2. PyCharm Community Edition: (https://www.jetbrains.com/pycharm/download/)
 
 ## Content
   1. Introduction to coding
      * Identifiers, Variables and Constants
-     * Input/Output
+     * Input/Output and Cast and Type Conversion
      * Basic Operations
-     * Cast and Type Conversion
      * If/else statement
      * Looping
      * Function
