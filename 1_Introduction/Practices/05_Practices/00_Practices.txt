@@ -1,2 +1,41 @@
 Practices
 ---------
+01. Read two integer number and inform if the number are equals
+02. Read an integer number and inform if the number is odd or even
+03. Read two integer numbers A and B and inform if A is divisible by B if not print the remainder
+04. Read two integer numbers and print them in ascending order
+05. Read two integer numbers storing them into two Variables Number1 and Number2 and make sure that
+    Number1 and Number2 variables stay in ascending order
+06. Read three values and indicate if they can form a triangle. Each side of a triangle has to be smaller than the
+    sum of the others two sides.
+07. Generate two integers number, ask for the result of addition of both numbers and let the user know if the
+    result is right.
+    e.g
+    The of of 3 + 7 = ?
+08. Read a language code from the list below and print "Hello world" using the select language
+    en = English = "Hello world"
+    pt = Portuguese = "Olá Mundo"
+    sp = Spanish = "Holla Mundo"
+    ch = Chinese = "你好，世界"
+    ge = Germany = "Hallo Welt"
+09. Read the name, frequency (%) and numbers of correct answers of a student and print his name and Grade based on
+    the table below:
+    0 to 10 questions = Grade D
+    11 to 15 questions = Grade C
+    16 to 20 questions = Grade B
+    21 to 25 questions = Grade A
+    Obs: If the student has less than 75% of frequency his Grade should be Failed.
+10. Read the Name, employment length and the current salary of an employee and calculate the new salary base on the
+    information below:
+    Employment length	Salary increment
+    0 to 2 years			1%
+    3 to 4 years			2%
+    5 to 10 years			3%
+    above 10 years			5%
+
+    Salary range	Salary increment
+    0 to 45,000		    5%
+    45,001 to 80,000	3%
+    80,001 to 100,000	2%
+    100,000 and above	1%
+11. Read three integer numbers and print them in ascending order.

@@ -1,2 +1,60 @@
 Practices
 ---------
+- Create a program to:
+01. Print the numbers from 1 to 1000
+02. Read two integer numbers representing an interval and print all numbers inside the interval
+03. Read two integer numbers representing an interval and print all even numbers inside the interval
+04. Read integer numbers (flag = 0) and print the average
+05. Read integer numbers (flag = 0) and print the highest value
+06. Read integer numbers (flag = 0) and print the smallest value and it's frequency
+07. Print the first 20 terms of Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...)
+08. Print the multiplication table for numbers from 0 to 9
+    0 x 0 = 0
+    0 x 1 = 0
+    0 x 2 = 0
+    ...
+    0 x 9 = 0
+    1 x 0 = 0
+    1 x 1 = 1
+    1 x 2 = 2
+    ...
+    1 x 9 = 9
+    2 x 0 = 0
+    2 x 1 = 2
+    2 x 2 = 4
+    ...
+    9 x 9 = 81
+09. Create a multiplication table game following the specification below:
+    - The game must ask multiplication questions using random numbers from 0 to 9.
+      e.g 3 x 9 = ?
+          7 x 8 = ?
+          0 x 2 = ?
+          ...
+    - The game should keep asking until the player get 3 wrong answers
+    - At the end the game must print the score showing the number of right and wrong answers.
+10. Read a integer number and calculate its Factorial. f(n) = n.(n-1).(n-2)(n-3)...1
+    e.g
+    f(0) = 1 (Exception)
+    f(1) = 1
+    f(4) = 4 x 3 x 2 x 1 = 48
+    f(6) = 6 x 5 x 4 x 3 x 2 x 1 = 720
+11. Create a guessing game following the specification below:
+    - Generate a random integer number from 1 to 100 (inclusive)
+    - Let the user try to guess the number until it get the right number
+    - For every guess the program should update the new interval
+    - At the end print how many times the players guessed the number
+    - e.g. Generated number = 35 (The player can't see this number)
+      Try to guess a number from:
+      1 to 100 => 20
+      21 to 100 => 65
+      21 to 64 => 30
+      31 to 64 => 41
+      31 to 40 => 36
+      31 to 35 => 35
+      Congratulations you guessed the right number with 6 attempts !
+12. Read an integer number and reverse it's digits
+    e.g
+    Input = 12345
+    Output = 54321
+13. Read an integer number and determine if it is a prime number or not
+14. Read two integer numbers and calculate the "integer" division without use the division operator

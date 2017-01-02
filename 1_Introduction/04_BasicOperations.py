@@ -3,7 +3,7 @@ number1 = 10
 number2 = 7
 print("a = {0}; b = {1}".format(number1, number2))
 
-# Multiple variable assignment in a single line
+# Multiple variable assignment in a single line. Attention: Better to avoid this :P
 myInteger, myFloat, s = 10, 10.5, "Learning Python"
 print(myInteger, myFloat, s)
 

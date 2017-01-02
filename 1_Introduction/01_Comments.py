@@ -16,4 +16,4 @@ Line 4
 '''
 print("Hello world with comments")
 
-# TODO: This is a special type of comment to identify part of the program that need attention to be completed later
+# TODO: This is a special type of comment to identify part of the program that needs attention to be completed later

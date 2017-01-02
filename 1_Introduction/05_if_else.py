@@ -6,8 +6,8 @@ if age >= 18:
     print('----------------')
     print("You are an adult")
     print('----------------')
-    # Everything align inside the if statement if part of the if statement
-    # Python uses indentation to define statement blocks. Many others languages used open and close delimiters
+    # Everything align inside the if statement is part of the if statement
+    # Python uses indentation to define statement blocks. Many others languages use open and close delimiters
 
 # if/else
 if age < 18:

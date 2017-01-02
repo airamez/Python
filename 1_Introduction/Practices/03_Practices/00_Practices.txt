@@ -6,4 +6,3 @@ Practices
    Address: Suite#: [suite number]; Street#: [street number]; Street: [street name]
             City: [city]; Province/State: [province/state]; Country: [country]; Postal Code: [postal code]
    Attention: Make sure the program assist the user by informing which field should be entered
-2.
