@@ -1,7 +1,7 @@
 # This is a complete course of coding using python as programming language.
 # The goals of this course is to:
- ## Fill the gap of books and tutorials about coding
- ## Cover fundamentals topics with a practical approach
+  * Fill the gap of books and tutorials about coding
+  * Cover fundamentals topics with a practical approach
 
 ## Why python: Google :P
 ## Python
