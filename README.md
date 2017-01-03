@@ -17,8 +17,9 @@
      * Identifiers, Variables and Constants
      * Input/Output and Cast and Type Conversion
      * Basic Operations
-     * If/else statement
-     * Looping
+     * Control flow commands
+       * Choice
+       * Loops
      * Function
      * Module
      * String
