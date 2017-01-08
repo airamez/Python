@@ -37,6 +37,6 @@
   7. GUI
   8. WEB
 
-## Files:
-1. https://github.com/airamez/Python
-2. https://github.com/airamez/Python/archive/master.zip
+## Our course
+1. Page: https://github.com/airamez/Python
+2. Files: https://github.com/airamez/Python/archive/master.zip
