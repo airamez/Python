@@ -10,7 +10,10 @@
 
 ## Getting ready
   1. Python Interpreter: (https://www.python.org/downloads/)
-  2. PyCharm Community Edition: (https://www.jetbrains.com/pycharm/download/)
+     Windows: https://www.python.org/downloads/windows/
+  2. PyCharm
+     https://www.jetbrains.com/pycharm/
+     Community Edition: https://www.jetbrains.com/pycharm/download/
 
 ## Content
   1. Introduction to coding
