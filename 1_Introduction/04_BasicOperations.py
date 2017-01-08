@@ -36,7 +36,8 @@ print("myFloat = {0}".format(myFloat))
 
 print("INTEGER DIVISION")
 print(7 // 2)
-print(10 // 3)
+print(11 // 2)
+print(10 // 2)
 
 print("REMAINDER/MOD")
 print("7 % 2 =", 7 % 2)
