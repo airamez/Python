@@ -13,7 +13,7 @@
      * https://www.python.org/downloads/
      * Windows: https://www.python.org/downloads/windows/
   2. PyCharm
-     * https://www.jetbrains.com/pycharm/
+     * Homepage: https://www.jetbrains.com/pycharm/
      * Community Edition: https://www.jetbrains.com/pycharm/download/
 
 ## Content
