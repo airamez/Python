@@ -9,11 +9,12 @@
   * Documentation: https://docs.python.org/3/
 
 ## Getting ready
-  1. Python Interpreter: (https://www.python.org/downloads/)
-     Windows: https://www.python.org/downloads/windows/
+  1. Python Interpreter:
+     * https://www.python.org/downloads/
+     * Windows: https://www.python.org/downloads/windows/
   2. PyCharm
-     https://www.jetbrains.com/pycharm/
-     Community Edition: https://www.jetbrains.com/pycharm/download/
+     * https://www.jetbrains.com/pycharm/
+     * Community Edition: https://www.jetbrains.com/pycharm/download/
 
 ## Content
   1. Introduction to coding
