@@ -19,7 +19,8 @@
 ## Content
   1. Introduction to coding
      * Identifiers, Variables and Constants
-     * Input/Output and Cast and Type Conversion
+     * Input/Output
+     * Cast and Type Conversion
      * Basic Operations
      * Control flow commands
        * Choice
