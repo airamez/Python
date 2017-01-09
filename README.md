@@ -15,6 +15,9 @@
   2. PyCharm
      * Homepage: https://www.jetbrains.com/pycharm/
      * Community Edition: https://www.jetbrains.com/pycharm/download/
+  3. Course material
+     * Page: https://github.com/airamez/Python
+     * Files: https://github.com/airamez/Python/archive/master.zip
 
 ## Content
   1. Introduction to coding
@@ -39,6 +42,4 @@
   7. GUI
   8. WEB
 
-## Our course
-1. Page: https://github.com/airamez/Python
-2. Files: https://github.com/airamez/Python/archive/master.zip
+
