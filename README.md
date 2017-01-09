@@ -3,7 +3,7 @@
   * Fill the gap of books and tutorials about coding
   * Cover fundamentals topics with a practical approach
 
-## Why python: Google :P
+## Why python: Google :)
 ## Python
   * Homepage: https://www.python.org/
   * Documentation: https://docs.python.org/3/
