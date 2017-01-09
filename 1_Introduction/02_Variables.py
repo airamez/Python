@@ -15,6 +15,16 @@ continue  finally   is        return
 def       for       lambda    try
 """
 
+"""
+VARIABLES
+A computer is a special machine that operates on data (information) and variables are the basic structures to
+store data/information. A computer need to know what is the type of the information to be able to store/process it.
+A computer memory can only story binary information (Two stages: 0 or 1) and each type of information will required a
+special translation mechanism.
+Example with numbers and letters:
+Demonstration of the Number 2017 and the word python
+"""
+
 # Integer
 age = 44  # Declaring and assigning an integer value
 print(age)  # Prints to the default output
