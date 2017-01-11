@@ -1,8 +1,8 @@
 Practices
 ---------
-1. Write a program to read the the first name, last name,
-   email and address of a costumer and print all information following the template below:
+1. Write a program to read the the first name, last name, email and address of a costumer and
+   print all information following the template below:
    First Name: [first name]; Last Name: [last name]; email: [email]
    Address: Suite#: [suite number]; Street#: [street number]; Street: [street name]
             City: [city]; Province/State: [province/state]; Country: [country]; Postal Code: [postal code]
-   Attention: Make sure the program assist the user by informing which field should be entered
+   Attention: Make sure the program assist the user during the data entry
