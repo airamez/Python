@@ -4,6 +4,7 @@ This is a Docstring comment and it is used to add documentation to Python code
 """
 
 # A hash sign (#) defines a comment.
+
 # The print command prints to the default output
 print("Hello World")  # Prints "Hello world"
 
