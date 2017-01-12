@@ -1,10 +1,28 @@
-# INPUT
+'''
+Class notes: Input/Output (I/O)
+ * Most of programs need to acquire or provide data/information
+ * The source and target of the I/O operations can be a person (User) or a device (printer, mouse, keyboard, etc)
+ * There are input, output and input/output devices
+ * Graphical User Interface is the most common way to interact with users
+ * The three mainstypes of user I/O
+   * Console
+   * Windows
+   * Web
+   * Could we find others?
+'''
+
 name = input("Type your name: ")  # The input command always returns a string
 # The + operator can be used to concatenate strings
 print("Hello " + name + ", welcome to the Learning Python course")
 
-age = int(input("What is your age: "))  # As we want an integer we need to convert the result of the input to int
+age = input("What is your age: ")
 print(age)
+
+print("Type two numbers and I will calculate the average")
+number1 = int(input("Number 1: "))
+number2 = int(input("Number 2: "))
+average = (number1 + number2) / 2
+print("The average of the numbers", number1, "and", number2, "is", average)
 
 payment = float(input("Payment value: "))  # Converting the input to float
 print(payment)
