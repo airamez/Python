@@ -3,8 +3,8 @@ Class notes: Input/Output (I/O)
  * Most of programs need to acquire or provide data/information
  * The source and target of the I/O operations can be a person (User) or a device (printer, mouse, keyboard, etc)
  * There are input, output and input/output devices
- * Graphical User Interface is the most common way to interact with users
- * The three mainstypes of user I/O
+ * Graphical User Interface (GUI) is the most common way to interact with users
+ * The three main types of user I/O
    * Console
    * Windows
    * Web
