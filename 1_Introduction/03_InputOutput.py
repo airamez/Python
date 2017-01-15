@@ -1,14 +1,15 @@
 '''
 Class notes: Input/Output (I/O)
  * Most of programs need to acquire or provide data/information
- * The source and target of the I/O operations can be a person (User) or a device (printer, mouse, keyboard, etc)
+ * The I/O operations are executed using a device (printer, mouse, keyboard, monitor, another computer, etc)
  * There are input, output and input/output devices
- * Graphical User Interface (GUI) is the most common way to interact with users
+ * A lot of times the I/O operations targets a person (USER)
  * The three main types of user I/O
    * Console
    * Windows
    * Web
    * Could we find others?
+ * Graphical User Interface (GUI) is the most common one
 '''
 
 name = input("Type your name: ")  # The input command always returns a string
