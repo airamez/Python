@@ -1,10 +1,10 @@
 '''
 Class notes: Input/Output (I/O)
- * Most of programs need to acquire or provide data/information
+ * Most programs need to acquire or provide data/information
  * The I/O operations are executed using a device (printer, mouse, keyboard, monitor, another computer, etc)
  * There are input, output and input/output devices
  * A lot of times the I/O operations targets a person (USER)
- * The three main types of user I/O
+ * There are three main types of user I/O:
    * Console
    * Windows
    * Web
@@ -43,11 +43,19 @@ message = "Name = {name}; Age = {age}; Payment = {payment}".format(payment=payme
 print(message)
 
 # If we want to print without move to a new line
+
+print('1')
+print('2')
+print('3')
+print('4')
+print('5')
+
 print('1', end='')
 print('2', end='')
 print('3', end='')
 print('4', end='')
 print('5', end='')
+print()
 
 # Every variable has a type
 
