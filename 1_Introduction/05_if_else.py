@@ -8,6 +8,7 @@ if age >= 18:
     print('----------------')
     # Everything align inside the if statement is part of the if statement
     # Python uses indentation to define statement blocks. Many others languages use open and close delimiters
+    # like { and }
 
 # if/else
 if age < 18:
@@ -34,9 +35,6 @@ else:
 
 print('Your are', result)
 
-# inline if
-print("Adult" if age >= 18 else "Young")
-
 # nested ifs
 gender = input("What is your gender? (M/F):")
 if gender == 'M':
@@ -56,4 +54,8 @@ elif gender == 'F':
 else:
     print("Wrong gender")
 
+# inline if
+print("Adult" if age >= 18 else "Young")
+
 print("Practices")
+

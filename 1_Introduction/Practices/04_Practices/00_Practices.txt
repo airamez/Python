@@ -2,29 +2,28 @@ Practices
 ---------
 Write a program to:
 01. Read the user name and print the message "Hello, USER_NAME"
-02. Generate a random number between [75 and 100].
-03. Read two integer numbers in natural order and generate a random number between them.
+02. Read two integer numbers in natural order and generate a random number between them.
     e.g.
      INPUT
        Number1 = 23
        Number2 = 45
      OUTPUT
        Random Number = 37
-04. Read four numbers and calculate the average?
-05. Read four numbers and print be number with the smallest value and largest value
-06. Read an temperature value in Fahrenheit and calculate it correspondent value in Celsius
-07. Read the two sides of a triangle and calculate the hypotenuse.
-08. Read two integer numbers storing each one in a variable and switch the variable values.
-09. Read the purchase price and desired profit percentual (%) for a product and calculate the sale price.
+03. Read four numbers and calculate the average?
+04. Read four numbers and print be number with the smallest value and largest value
+05. Read an temperature value in Fahrenheit and calculate it correspondent value in Celsius
+06. Read the two sides of a triangle and calculate the hypotenuse.
+07. Read two integer numbers storing each one in a variable and switch the variable values.
+08. Read the purchase price and desired profit percentual (%) for a product and calculate the sale price.
     e.g.
     INPUT
       Purchase Price = 500.00
       Desired Profit (%) = 50
     OUTPUT
       Sale Price = 750.00
-10. Calculate how many minutes a client stayed in a store based on the time (Hour:Minutes) he arrived and the
+09. Calculate how many minutes a client stayed in a store based on the time (Hour:Minutes) he arrived and the
     time (Hour:Minutes) he left.
-11. Calculate how many dollar's bills of each one of the following values ($1, $5, $10, $20, $50) should be released
+10. Calculate how many dollar's bills of each one of the following values ($1, $5, $10, $20, $50) should be released
     in an ATM machine for a withdraw value.
     The ATM machine should always give less dollar bills as possible
     e.g. INPUT
@@ -35,4 +34,4 @@ Write a program to:
       10 bills = 1
        5 bills = 1
        1 bills = 3
-12. Read an integer number and indicate if the number is even
+11. Read an integer number and indicate if the number is even
