@@ -30,11 +30,13 @@ print("         City: {0}; Province/State: {1}; Country: {2}; Postal Code: {3}"
 print("-------------------------------------------------------------------------------------------------------")
 
 # Option 2
-template = """-------------------------------------------------------------------------------------------------------
+template = """
+-------------------------------------------------------------------------------------------------------
 First Name: {first_name}; Last Name: {last_name}; email: {email}
 Address: Suite #: {suite_number}; Street#: {street_number}; Street: {street_name}
          City: {city}; Province/State: {province_or_state}; Country: {country}; Postal Code: {postal_code}
--------------------------------------------------------------------------------------------------------"""
+-------------------------------------------------------------------------------------------------------
+"""
 
 data = template.format(first_name=first_name,
                        last_name=last_name,

@@ -43,7 +43,8 @@ template = '''
    "country" : "{country}",
    "postal_code" : "{postal_code}"
  }}
-}}'''
+}}
+'''
 
 data = template.format(**locals())
 
