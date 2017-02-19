@@ -1,12 +1,13 @@
 print("ASSIGNMENT")
 number1 = 10
 number2 = 7
-print("a = {0}; b = {1}".format(number1, number2))
+print("number1 = {0}; number2 = {1}".format(number1, number2))
 
 # Multiple variable assignment in a single line. Attention: Better to avoid this :P
 myInteger, myFloat, s = 10, 10.5, "Learning Python"
 print(myInteger, myFloat, s)
 
+# One value to multiple variables
 a = b = c = d = e = 15
 print(a, b, c, d, e)
 
@@ -20,7 +21,7 @@ print("SUBTRACTION")
 number4 = number1 - number3
 print("{0} - {1} = {2}".format(number1, number3, number4))
 
-print("Negative")
+print("NEGATIVE")
 number = 10
 print(number)
 number = -number
@@ -32,7 +33,7 @@ print("{0} x {1} x 2 = {2}".format(number1, number2, number5))
 
 print("DIVISION")
 myFloat = 7 / 2
-print("myFloat = {0}".format(myFloat))
+print("7 / 2 = {0}".format(myFloat))
 
 print("INTEGER DIVISION")
 print(7 // 2)
@@ -63,7 +64,7 @@ greetings = "Hello " + name
 print(greetings)
 
 print("AUGMENTED ASSIGNMENT")
-# += -= *= /=
+# = += -= *= /=
 number = 5
 print(number)
 
