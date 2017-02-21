@@ -11,7 +11,7 @@ Write a program to:
        Random Number = 37
 03. Read four numbers and calculate the average.
 04. Read four numbers and calculates the weighted average using the weights 2, 2, 2, 4.
-05. Read four numbers and print the number with the smallest value and largest value
+05. Read four numbers and print the numbers with the smallest value and largest value
 06. Read an temperature value in Fahrenheit and calculate it correspondent value in Celsius
 07. Read the two sides of a triangle and calculate the hypotenuse.
 08. Read two integer numbers storing each one in a variable and switch the variable values.
