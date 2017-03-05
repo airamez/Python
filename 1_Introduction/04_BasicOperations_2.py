@@ -1,16 +1,16 @@
 print("AUGMENTED ASSIGNMENT")
 # = += -= *= /=
 number = 5
-print(number)
+print("number", number)
 
 number += 1
-print(number)
+print("number += 1 = ", number)
 
 number += 5
-print(number)
+print("number += 5 = ", number)
 
 number += number
-print(number)
+print("number += number = ", number)
 
 print("ARITHMETIC OPERATIONS")
 # Math class: https://docs.python.org/3.2/library/math.html
@@ -30,7 +30,7 @@ print("Absolute value of   10 = ", math.fabs(10))
 print("MAXIMUM")
 print("Maximum of 3 and 7 = ", max(3, 7))
 print("Maximum of 7 and 3 = ", max(7, 3))
-print("Maximum of 7, 10, 3 = ", max(max(7, 10), 3))
+print("Maximum of 7, 10, 13 = ", max(max(7, 10), 13))
 
 print("MINIMUM")
 print("Minimum of 3 and 7 = ", min(3, 7))

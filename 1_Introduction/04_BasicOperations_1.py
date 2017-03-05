@@ -36,9 +36,10 @@ myFloat = 7 / 2
 print("7 / 2 = {0}".format(myFloat))
 
 print("INTEGER DIVISION")
-print(7 // 2)
-print(11 // 2)
-print(10 // 2)
+print("7 / 2 =", 7 // 2)
+print("11 / 2 =", 11 // 2)
+print("10 / 2 =", 10 // 2)
+print("3 / 7 =", 3 // 7)
 
 print("REMAINDER/MOD")
 print("7 % 2 =", 7 % 2)
@@ -48,7 +49,7 @@ print("3 % 7 =", 3 % 7)
 
 print("DIV/MOD")
 division = divmod(7, 2)
-print(division[0], division[1])
+print("7 / 2", "Div=", division[0], "Mod=", division[1])
 
 print("power")
 print("2**10 = ", 2**10)
