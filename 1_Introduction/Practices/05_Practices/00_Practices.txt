@@ -12,20 +12,22 @@ Practices
     result is right.
     e.g
     The of of 3 + 7 = ?
-08. Read a language code from the list below and print "Hello world" using the select language
+08. Read three values and inform if they can be the side of a triangle.
+09. Read the three sides of a triangle and inform the type of the triangle: equilateral isosceles scalene.
+10. Read a language code from the list below and print "Hello world" using the select language
     en = English = "Hello world"
     pt = Portuguese = "Olá Mundo"
     sp = Spanish = "Holla Mundo"
     ch = Chinese = "你好，世界"
     ge = Germany = "Hallo Welt"
-09. Read the name, frequency (%) and numbers of correct answers of a student and print his name and Grade based on
+11. Read the name, frequency (%) and numbers of correct answers of a student and print his name and Grade based on
     the table below:
     0 to 10 questions = Grade D
     11 to 15 questions = Grade C
     16 to 20 questions = Grade B
     21 to 25 questions = Grade A
     Obs: If the student has less than 75% of frequency his Grade should be Failed.
-10. Read the Name, employment length and the current salary of an employee and calculate the new salary base on the
+12. Read the Name, employment length and the current salary of an employee and calculate the new salary base on the
     information below:
     Employment length	Salary increment
     0 to 2 years			1%
@@ -38,4 +40,4 @@ Practices
     45,001 to 80,000	3%
     80,001 to 100,000	2%
     100,000 and above	1%
-11. Read three integer numbers and print them in ascending order.
+13. Read three integer numbers and print them in ascending order.
