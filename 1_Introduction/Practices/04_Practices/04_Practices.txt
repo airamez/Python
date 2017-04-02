@@ -30,7 +30,8 @@ Write a program to:
     Arrived at Hour = 8
     Arrive at Minutes = 15
     Left at Hour = 9
-    Left at Minute = 5
+    Left at Minutes = 5
+    OUTPUT
     Minutes in store = 50 minutes
 
 11. Calculate how many dollar's bills of each one of the following values ($1, $5, $10, $20, $50) should be released
