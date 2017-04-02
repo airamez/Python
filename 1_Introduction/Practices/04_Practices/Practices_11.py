@@ -1,13 +1,10 @@
 """
-Calculate how many dollar's bills of each one of the following values ($1, $5, $10, $20, $50) should be released
-    in an ATM machine for a withdraw value.
-    The ATM machine should always give less dollar bills as possible
-    e.g. INPUT
-      Value = 1,338.00
+Same as the previous question however calculating the time the client stayed in the story as hour:minutes
+    INPUT
+    Arrived at Hour = 8
+    Arrive at Minutes = 15
+    Left at Hour = 10
+    Left at Minutes = 45
     OUTPUT
-      50 bills = 26
-      20 bills = 1
-      10 bills = 1
-       5 bills = 1
-       1 bills = 3
+    Minutes in store = 2:30
 """

@@ -34,7 +34,16 @@ Write a program to:
     OUTPUT
     Minutes in store = 50 minutes
 
-11. Calculate how many dollar's bills of each one of the following values ($1, $5, $10, $20, $50) should be released
+11. Same as the previous question however calculating the time the client stayed in the story as hour:minutes
+    INPUT
+    Arrived at Hour = 8
+    Arrive at Minutes = 15
+    Left at Hour = 10
+    Left at Minutes = 45
+    OUTPUT
+    Minutes in store = 2:30
+
+12. Calculate how many dollar's bills of each one of the following values ($1, $5, $10, $20, $50) should be released
     in an ATM machine for a withdraw value.
     The ATM machine should always give less dollar bills as possible
     e.g. INPUT
@@ -46,4 +55,4 @@ Write a program to:
        5 bills = 1
        1 bills = 3
 
-12. Read an integer number and indicate if the number is even.
+13. Read an integer number and indicate if the number is even.
