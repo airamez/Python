@@ -45,7 +45,7 @@ Write a program to:
 
 12. Calculate how many dollar's bills of each one of the following values ($1, $5, $10, $20, $50) should be released
     in an ATM machine for a withdraw operation.
-    The ATM machine should always give less dollar bills as possible
+    The ATM machine should always give less dollar's bills as possible
     e.g. INPUT
       Value = 1,338.00
     OUTPUT
