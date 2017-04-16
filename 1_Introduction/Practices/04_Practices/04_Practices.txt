@@ -44,7 +44,7 @@ Write a program to:
     Minutes in store = 2:30
 
 12. Calculate how many dollar's bills of each one of the following values ($1, $5, $10, $20, $50) should be released
-    in an ATM machine for a withdraw value.
+    in an ATM machine for a withdraw operation.
     The ATM machine should always give less dollar bills as possible
     e.g. INPUT
       Value = 1,338.00
