@@ -22,3 +22,4 @@ stayed_in_minutes = left_in_minutes - arrived_in_minutes
 
 print("Minutes in store = ", stayed_in_minutes)
 
+
