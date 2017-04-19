@@ -28,7 +28,7 @@ Write a program to:
     e.g
     INPUT
     Arrived at Hour = 8
-    Arrive at Minutes = 15
+    Arrived at Minutes = 15
     Left at Hour = 9
     Left at Minutes = 5
     OUTPUT
@@ -37,7 +37,7 @@ Write a program to:
 11. Same as the previous question however calculating the time the client stayed in the story as hour:minutes
     INPUT
     Arrived at Hour = 8
-    Arrive at Minutes = 15
+    Arrived at Minutes = 15
     Left at Hour = 10
     Left at Minutes = 45
     OUTPUT
