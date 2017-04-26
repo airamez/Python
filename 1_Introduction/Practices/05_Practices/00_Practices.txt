@@ -1,33 +1,38 @@
 Practices
 ---------
-01. Read two integer number and inform if the number are equals
-02. Read an integer number and inform if the number is odd or even
-03. Read two integer numbers A and B and inform if A is divisible by B if not print the remainder
-04. Read two integer numbers and print them in ascending order
-05. Read two integer numbers storing them into two Variables Number1 and Number2 and make sure that
-    Number1 and Number2 variables stay in ascending order
-06. Read three values and indicate if they can form a triangle. Each side of a triangle has to be smaller than the
-    sum of the others two sides.
-07. Generate two integers number, ask for the result of addition of both numbers and let the user know if the
+Write a program to:
+01. Read an integer number and inform if the number is odd or even
+02. Read two integer numbers and inform if the numbers are equals or different
+03. Read a number in inform if the number is positive, negative or zero
+04. Read two integer numbers A and B and inform if A is divisible by B and if it is not divisible print the remainder
+05. Read two integer numbers and print them in ascending order
+06. Read two integer numbers storing them into two Variables Number1 and Number2 and make sure that
+    Number1 and Number2 variables get in ascending order
+07. Read three values and indicate if they can form be the sides of a triangle.
+08. Read three values and indicate if they can form be the sides of a triangle and what type of triangle it would be:
+    Equilateral, Isosceles, Scalene.
+09. Generate and show two integers number, ask the user to try the addition of both numbers and let the user know if the
     result is right.
     e.g
     The of of 3 + 7 = ?
-08. Read three values and inform if they can be the side of a triangle.
-09. Read the three sides of a triangle and inform the type of the triangle: equilateral isosceles scalene.
-10. Read a language code from the list below and print "Hello world" using the select language
+    What is the sum = 11
+    Wrong
+10. Read a time defined as Hour and Minutes where the Hour will be in military format (0 to 23) and print the time
+    as conventional hours, Hour:Minutes AM/PM
+11. Read a language code from the list below and print "Hello world" using the select language
     en = English = "Hello world"
     pt = Portuguese = "Olá Mundo"
     sp = Spanish = "Holla Mundo"
     ch = Chinese = "你好，世界"
     ge = Germany = "Hallo Welt"
-11. Read the name, frequency (%) and numbers of correct answers of a student and print his name and Grade based on
+12. Read the name, frequency (%) and numbers of correct answers of a student and print his name and Grade based on
     the table below:
     0 to 10 questions = Grade D
     11 to 15 questions = Grade C
     16 to 20 questions = Grade B
     21 to 25 questions = Grade A
     Obs: If the student has less than 75% of frequency his Grade should be Failed.
-12. Read the Name, employment length and the current salary of an employee and calculate the new salary base on the
+13. Read the Name, employment length and the current salary of an employee and calculate the new salary base on the
     information below:
     Employment length	Salary increment
     0 to 2 years			1%
@@ -40,4 +45,5 @@ Practices
     45,001 to 80,000	3%
     80,001 to 100,000	2%
     100,000 and above	1%
-13. Read three integer numbers and print them in ascending order.
+14. Read 4 integer number and print the ones divisible by 2 and 3.
+15. Read three integer numbers and print them in ascending order.
