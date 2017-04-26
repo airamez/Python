@@ -55,4 +55,4 @@ Write a program to:
        5 bills = 1
        1 bills = 3
 
-13. Read an integer number and indicate if the number is even.
+13. Read an integer number and indicate if the number is even or odd.
