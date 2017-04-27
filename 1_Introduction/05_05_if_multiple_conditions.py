@@ -20,7 +20,6 @@ if is_weekend == "Y":
 else:
     print("Go to work!")
 
-
 print("# Option 2")
 is_weekend = input("Is Weekend (Y/N)? = ") == "Y"
 if is_weekend:
