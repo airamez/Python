@@ -1,6 +1,17 @@
+"""
+The if command provide the capability to control the flow of a program by checking conditions and executing or not
+parts of the program.
+Comparisons operator:
+==  Equal
+!=  Not Equal
+<   Smaller than
+>   Greater than
+>=  Greater or Equal than
+<=  Smaller or Equal than
+"""
+
 age = int(input('Type your age: '))
 
-# if
 if age >= 18:
     print('----------------')
     print("You are an adult. Age =", age)
