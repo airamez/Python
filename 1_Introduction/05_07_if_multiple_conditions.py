@@ -1,9 +1,17 @@
 """
-Check if a Year is a Leap Year
-A year is a leap year if it is divisible by 4 but not for 100 however it is leap if it divisible by 400
+OR => true when one condition is true
+True  or True  = True
+False or True  = True
+True  or False = True
+False or False = False
 """
-year = int(input("Year = "))
-if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0:
-    print("Leap Year")
+i_am_sick = input("Are you sick (Y/N)? = ") == "Y"
+is_raining = input("Is raining (Y/N)? = ") == "Y"
+if i_am_sick or is_raining:
+    if i_am_sick:
+        print("Go to the doctor.")
+    else:
+        print("Stay at home.")
 else:
-    print("NOT Leap Year")
+    print("Go fishing.")
+

@@ -1,16 +1,12 @@
-"""
-OR => true when one condition is true
-True  or True  = True
-False or True  = True
-True  or False = True
-False or False = False
-"""
-am_i_sick = input("Are you sick (Y/N)? = ") == "Y"
-is_raining = input("Is raining (Y/N)? = ") == "Y"
-if am_i_sick or is_raining:
-    print("Stay at home")
-elif am_i_sick:
-    print("Go see the doctor")
+is_weekend = input("Is Weekend (Y/N)? = ") == "Y"
+if is_weekend:
+    is_raining = input("Is raining (Y/N)? = ") == "Y"
+    is_wife_busy = input("Is wife busy (Y/N)? = ") == "Y"
+    if (not is_raining) and is_wife_busy:
+        print("Go fishing!")
+    elif not is_wife_busy:
+        print("Go grocery with wife")
+    else:
+        print("Prepare coding classes")
 else:
-    print("Prepare coding classes")
-
+    print("Go to work!")
