@@ -1,5 +1,4 @@
-age = input('Type your age: ')
-age = int(age)
+age = int(input('Type your age: '))
 
 # if/elif/else
 result = None
@@ -9,7 +8,7 @@ elif age <= 1:
     result = "infant"
 elif age <= 12:
     result = "kid"
-elif age <= 18:
+elif age <= 19:
     result = "teenage"
 elif age <= 40:
     result = "adult"

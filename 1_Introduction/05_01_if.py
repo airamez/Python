@@ -1,6 +1,6 @@
 """
-The if command provide the capability to control the flow of a program by checking conditions and executing or not
-parts of the program.
+The if command provide the capability to control the flow of a program by checking conditions and 
+executing or not parts of the program.
 Comparisons operator:
 ==  Equal
 !=  Not Equal
@@ -19,5 +19,4 @@ if age >= 18:
     # Everything align inside the if statement is part of the if statement
     # Python uses indentation to define statement blocks. Many others languages use open and close delimiters
     # like { and }
-
 print("This is outside the if statement and it will be always executed")
