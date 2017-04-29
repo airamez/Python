@@ -15,3 +15,4 @@ elif gender == 'F':
         print("So sorry for you")
 else:
     print("Wrong gender")
+print("Have a nice day")
