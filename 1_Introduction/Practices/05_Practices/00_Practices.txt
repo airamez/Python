@@ -63,7 +63,7 @@ Write a program to:
     45,001 to 80,000	3%
     80,001 to 100,000	2%
     100,000 and above	1%
-17. Read 4 integer numbers and print the ones divisible by 2 and 3.
+17. Read four integer numbers and print the ones divisible by 2 and 3.
 18. Read three integer numbers and print them in ascending order.
 19. Write a program to generate a random number between 0 and 100 and give the user 5 changes to guess the number end
     for every guess inform if the guessed number is smaller or greater than the generated number. And of course as soon
@@ -77,3 +77,4 @@ Write a program to:
     ALL-MIDDLE   = Starts and ends inside the middle
     MIDDLE_RIGHT = Starts in the middle and ends on the right
     ALL-RIGHT    = All on the right
+22. Read day, month and year for a date and indicate if the values represents a valida date.

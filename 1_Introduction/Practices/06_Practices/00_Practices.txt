@@ -4,11 +4,12 @@ Practices
 01. Print the numbers from 1 to 1000
 02. Read two integer numbers representing an interval and print all numbers inside the interval
 03. Read two integer numbers representing an interval and print all even numbers inside the interval
-04. Read integer numbers (flag = 0) and print the average
-05. Read integer numbers (flag = 0) and print the highest value
-06. Read integer numbers (flag = 0) and print the smallest value and it's frequency
+04. Read integer numbers (flag = empty) and print the average
+05. Read integer numbers (flag = empty) and print the highest value
+06. Read integer numbers (flag = empty) and print the smallest value and it's frequency
 07. Print the first 20 terms of Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...)
 08. Print the multiplication table for numbers from 0 to 9
+    e.g.
     0 x 0 = 0
     0 x 1 = 0
     0 x 2 = 0
@@ -30,8 +31,8 @@ Practices
           7 x 8 = ?
           0 x 2 = ?
           ...
-    - The game should keep asking until the player get 3 wrong answers
-    - At the end the game must print the score showing the number of right and wrong answers.
+    - The game ends when the user type an empty value or if the user get 5 wrong answers;
+    - At the end of the game prints the score showing the number of right and wrong answers;
 10. Read a integer number and calculate its Factorial. f(n) = n.(n-1).(n-2)(n-3)...1
     e.g
     f(0) = 1 (Exception)
@@ -52,9 +53,42 @@ Practices
       31 to 40 => 36
       31 to 35 => 35
       Congratulations you guessed the right number with 6 attempts !
-12. Read an integer number and reverse it's digits
+12. Read an integer number with any length and reverse it's digits
     e.g
     Input = 12345
     Output = 54321
 13. Read an integer number and determine if it is a prime number or not
 14. Read two integer numbers and calculate the "integer" division without use the division operator
+15. Read an integer number H and print H lines composed of * characters start with one character and adding one * for
+    each new line.
+    e.g.
+    Height = 7
+    *
+    **
+    ***
+    ****
+    *****
+    ******
+    *******
+16. Same as the previous question but starting from the right
+    e.g.
+    Height = 7
+          *
+         **
+        ***
+       ****
+      *****
+     ******
+    *******
+17. Read an integer number H and print a Christmas Tree with height H.
+    e.g
+    Height = 7
+          *
+         ...
+        .....
+       .......
+      .........
+     ...........
+    .............
+          |
+          |
