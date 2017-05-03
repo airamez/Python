@@ -7,7 +7,8 @@ Practices
 04. Read integer numbers (flag = empty) and print the average
 05. Read integer numbers (flag = empty) and print the highest value
 06. Read integer numbers (flag = empty) and print the smallest value and it's frequency
-07. Print the first 20 terms of Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...)
+07. Print the Fibonacci sequence while the term is smaller than 5000
+    Fibonacci = 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...
 08. Print the multiplication table for numbers from 0 to 9
     e.g.
     0 x 0 = 0
@@ -81,7 +82,7 @@ Practices
      ******
     *******
 17. Read an integer number H and print a Christmas Tree with height H.
-    e.g
+    e.g.
     Height = 7
           *
          ...
@@ -92,3 +93,10 @@ Practices
     .............
           |
           |
+18. Generated 10000 random number from 1 to 5 and print how many times and the percentage of each numbers.
+    e.g.
+    1 = 200 times => 2%
+    2 = 5000 times = 50%
+    3 = 800 times = 8%
+    4 = 1000 times = 10%
+    5 = 3000 times = 30%
