@@ -9,8 +9,18 @@ right = random.randint(left + 1, 100)
 number = int(input("Type a number between 0 and 100 = "))
 print("Interval [{0}..{1}]".format(left, right))
 
-# Same as left < number and number < right
-if left < number < right:
+if left <= number and number <= right:
     print("Number inside the the interval!")
 else:
     print("Number is outside the interval!")
+
+# Simplified
+if left <= number <= right:
+    print("Number inside the the interval!")
+else:
+    print("Number is outside the interval!")
+
+if number < left or number > right:
+    print("Number is outside the interval!")
+else:
+    print("Number inside the the interval!")
