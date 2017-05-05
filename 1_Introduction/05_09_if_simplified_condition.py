@@ -1,5 +1,5 @@
 """
-Generate a integer interval from 0 and 100 and let the user try a number, after the try inform if the
+Generate a integer interval from 0 to 100 and let the user try a number and inform if the
 number is inside or outside of the interval
 """
 import random
