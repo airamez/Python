@@ -1,31 +1,6 @@
 """
-A function is a block of organized, reusable code that is used to perform a single, related action.
-Functions help to keep your code clean, easy to understand,
-provide better modularity for your application and a high degree of code reusing.
+Functions with typed parameters and typed return
 """
-
-
-def average(number1, number2, number3):
-    return (number1 * 3 + number2 * 3 + number3 * 4) / 10
-
-print(average(5, 5, 8))
-print(average(8, 8, 5))
-print(average(number3=8, number1=8, number2=5))
-
-
-def repeat(string, times=10):  # Default parameter
-    result = ''
-    for i in range(1, times + 1):
-        result = result + string
-    return result
-
-print(repeat('*'))
-print(repeat('*', 5))
-print(repeat('*', 1))
-print(repeat('=', 80))
-print(repeat(' ', 35), end='')
-print('This is a function')
-print(repeat('=', 80))
 
 
 def get_salutation(name: str, hour: int) -> str:  # Providing the type of the parameters and return type
@@ -58,5 +33,7 @@ myHour = 15
 print(get_salutation(myName, myHour))
 print(get_salutation(hour=myHour, name=myName))
 
-
-print("Practices")
+myName = input("Name = ")
+myHour = int(input("Hour = "))
+mySalutation = get_salutation(myName, myHour)
+print(mySalutation)
