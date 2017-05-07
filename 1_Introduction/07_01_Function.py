@@ -1,7 +1,7 @@
 """
-A function is a block of organized, reusable code that is used to perform a single, related action.
-Functions help to keep your code clean, easy to understand,
-provide better modularity for your application and a high degree of code reusing.
+A function is a block code that is used to perform an action.
+Functions help to keep your code clean, easy to understand, provide better modularity for 
+your application and a high degree of code reusing.
 """
 
 
@@ -22,5 +22,5 @@ print(avg)
 avg = average(number1=num1, number2=num2, number3=num3)
 print(avg)
 
-avg = average(number1=num3, number2=num2, number3=num1)
+avg = average(number3=num1, number2=num2, number1=num3)
 print(avg)
