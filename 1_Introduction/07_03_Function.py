@@ -21,13 +21,17 @@ def get_salutation(name: str, hour: int) -> str:  # Providing the type of the pa
     return "Hello {0}, {1}".format(name, salutation)
 
 
+# Control + Q shows documentation
 print(get_salutation("José", 8))
 print(get_salutation("Artur", 13))
 print(get_salutation("Leila", 18))
 print(get_salutation("Nilzete", 22))
+
+# Passing parameters by name. This ignore the order
 print(get_salutation(name="Alciene", hour=7))
 print(get_salutation(hour=15, name="Zenilton"))
 
+# Passing variables as parameters
 myName = "José"
 myHour = 15
 print(get_salutation(myName, myHour))
