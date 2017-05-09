@@ -1,2 +1,3 @@
 Practices
 ---------
+- Review all questions from module 4 and 5 and solve the ones you think is better to be solved using functions

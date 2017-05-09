@@ -4,6 +4,8 @@ Functions help to keep your code clean, easy to understand, provide better modul
 your application and a high degree of code reusing.
 """
 
+# Two blank likes are required before a function
+
 
 def average(number1, number2, number3):
     return (number1 * 3 + number2 * 3 + number3 * 4) / 10
