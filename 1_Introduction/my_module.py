@@ -22,6 +22,7 @@ def add_bonus(current_salary, age, years_of_work, dependents):
         bonus += 5
     else:
         bonus += 10
+
     if years_of_work >= 5:
         bonus += 5
     else:
