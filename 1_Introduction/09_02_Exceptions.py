@@ -1,27 +1,27 @@
 """
-When a program is executing even if the program has no errors caused by syntax or logic some errors can 
-potentially occur. Examples: lost connection, wrong data entry, disk failure, timeout, etc.
-Those errors are called Exceptions and every program language offer a mechanism to deal with them.
-The majority of programing languages uses a mechanism following the idea of TRY ... CATCH ...
-try     -> commands are executed normally
-catch   -> the potential exceptions/errors are handled
+It is possible to catch multiple exceptions 
 """
 
 
-def read_integer(prompt: str = "Type an integer number = ") -> int:
-    """
-    Read an integer number
-    :param prompt: Input label
-    :return: 
-    """
-    while True:
-        try:
-            number = int(input(prompt))
-            return number
-        except ValueError:
-            print("Invalid number. Please try again!")
+def my_division(number_1, number_2) -> float:
+    try:
+        return float(number_1) / float(number_2)
+    except ValueError:
+        print("Invalid parameters: {0}/{1}".format(number_1, number_2))
+    except ZeroDivisionError:
+        print("Division by zero: {0}/{1}".format(number_1, number_2))
 
-my_int = read_integer()
-print("My int", my_int)
-my_age = read_integer("Age = ")
-print("My age =", my_age)
+print('my_division(10, 4) =', my_division(10, 4))
+print('my_division("Python", 2) =', my_division("Python", 2))
+print('my_division(10, 0) =', my_division(10, 0))
+
+while True:
+    try:
+        number1 = input("Number 1 = ")
+        number2 = input("Number 2 = ")
+        division = my_division(number1, number2)
+        if division:
+            print("Division = ", division)
+            break
+    except:
+        pass  # This means we don't want to do anything if there is an exception
