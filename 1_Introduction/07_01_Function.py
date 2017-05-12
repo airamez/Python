@@ -2,6 +2,9 @@
 A function is a block code that is used to perform an action.
 Functions help to keep your code clean, easy to understand, provide better modularity for 
 your application and a high degree of code reusing.
+The return statement of a function terminate the function execution and return the value
+Every function is python returns a value even if the function does not have a return statement. In the case the a
+special value will be returned: None
 """
 
 # Two blank likes are required before a function

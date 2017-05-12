@@ -6,7 +6,9 @@ In many programming languages when a function doesn't not return a value it is c
 
 def my_print(name: str, salary: float, age: int):
     if not name:
-        return  # Even the function not returning a value the return statement ends the function
+        # Even the function not returning a value the return statement ends the function and the especial value
+        # None is returned
+        return
     print('[Name = {0}, Salary = {1}, Age = {2}]'.format(name, salary, age))
 
 
