@@ -24,7 +24,7 @@ List of assertion:
     assertIsInstance(a, b)
     assertNotIsInstance(a, b)
 
-WARNING: There are more advances topicS in Unit Testing that we will review later.
+WARNING: There are more advanced topics in Unit Testing that we will review later.
 """
 import unittest
 
@@ -48,10 +48,10 @@ class MyUnitTesting (unittest.TestCase):
     """
 
     def test_01_fat_0(self):
-        self.assertEqual(1, factorial(0))
+        self.assertEqual(1, factorial(0), "Zero Factorial")
 
     def test_02_fat_1(self):
-        self.assertEqual(1, factorial(1))
+        self.assertEqual(1, factorial(1), "One Factorial")
 
     def test_03_fat_2(self):
         self.assertEqual(2, factorial(2))
