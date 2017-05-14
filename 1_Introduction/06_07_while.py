@@ -1,8 +1,8 @@
 start = 1
 
-# while with continue and break
-# continue skip the current interaction
-# break ends the loop
+# while with continue and break:
+#   continue - skip the current interaction
+#   break - ends the loop
 i = start
 while True:
     i += 1

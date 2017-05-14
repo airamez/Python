@@ -1,7 +1,7 @@
 start = 1
 end = 10
 
-# Prints the number from start to end however removing the last ','
+# Prints the number from start to end however in the same line and removing the last ','
 i = start
 while i <= end:
     if i < end:

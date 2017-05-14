@@ -1,3 +1,4 @@
+# Reading values with a FLAG
 while True:
     number = input("Type a integer number or [Enter] to exit = ")
     if number == "":
