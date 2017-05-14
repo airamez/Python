@@ -74,7 +74,7 @@ class MyUnitTesting (unittest.TestCase):
     def test_10_fat_2_and_3(self):
         self.assertNotEqual(factorial(2), factorial(3))
 
-    def test_11_fat_2_and_3(self):
+    def test_11_fat_4_and_4(self):
         self.assertTrue(factorial(4) < factorial(5))
 
 # This is the statement that executes the Unit tests
