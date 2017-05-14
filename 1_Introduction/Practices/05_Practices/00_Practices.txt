@@ -15,9 +15,8 @@ Write a program to:
     ge = Germany = "Hallo Welt"
 07. Read two integer numbers storing them into two Variables Number1 and Number2 and make sure that
     Number1 and Number2 variables get in ascending order.
-08. Read three values and indicate if they can form be the sides of a triangle.
-09. Read three values and indicate if they can form be the sides of a triangle and what type of triangle
-    it would be:
+08. Read three values and indicate if they can form a triangle.
+09. Read three values and indicate if they can form a triangle and what type of triangle it would be:
     Equilateral, Isosceles, Scalene.
 10. Generate and show two integers number between 0 and 99, ask the user to try the addition of both numbers
     and let the user know if the result is right.
