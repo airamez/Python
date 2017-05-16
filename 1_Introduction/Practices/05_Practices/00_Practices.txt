@@ -18,8 +18,8 @@ Write a program to:
 08. Read three values and indicate if they can form a triangle.
 09. Read three values and indicate if they can form a triangle and what type of triangle it would be:
     Equilateral, Isosceles, Scalene.
-10. Generate and show two integers numbers between 0 and 99, ask the user to try the addition of both numbers
-    and let the user know if the result is right or not.
+10. Generate and show two integer numbers between 0 and 99, ask the user to try the addition of both numbers
+    and let the user know if the result is right.
     e.g
     3 + 7? = 11
     Wrong
