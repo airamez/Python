@@ -1,8 +1,6 @@
-"""
-Multidimensional Lists 
-  
-"""
+# TODO: Prepare this file
 
+# Multidimensional Lists
 matrix = [[1, 2, 3],
           [4, 5, 6],
           [7, 8, 9]]
