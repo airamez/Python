@@ -23,12 +23,13 @@ Write a program to:
     e.g
     3 + 7? = 11
     Wrong
-11. Generate a basic random operation of addition, subtraction, multiplication or division using two numbers
+11. Generate a basic random operation of addition, subtraction, multiplication or division using two integer numbers
     from 0 to 99 and challenge the user for the right answer.
+    Let the user know if the guess is correct or incorrect.
     e.g
     34 x 12 = 408
     Congratulations, your answer is correct!
-12. Read an integer number with 4 digits and generate another integer number with the inverted digits.
+12. Read an integer number with 4 digits and generate another integer number with the digits in reverse order.
     e.g.
     Number = 1234
     Inverted = 4321
