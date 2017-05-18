@@ -80,4 +80,4 @@ Write a program to:
     ALL-MIDDLE   = Starts and ends inside the middle
     MIDDLE_RIGHT = Starts in the middle and ends on the right
     ALL-RIGHT    = All on the right
-22. Read day, month and year for a date and indicate if the values represents a valida date.
+22. Read day, month and year for a date and indicate if the values represents a valid date.
