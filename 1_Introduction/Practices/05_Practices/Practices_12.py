@@ -1,5 +1,5 @@
 """
-Generate an random integer number with 4 digits and generate another number with the digits in reverse order.
+Generate a random integer number with 4 digits and generate another number with the digits in reverse order.
     e.g.
     Number = 1234
     Inverted = 4321

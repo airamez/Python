@@ -29,7 +29,7 @@ Write a program to:
     e.g
     34 x 12 = 408
     Congratulations, your answer is correct!
-12. Generate an random integer number with 4 digits and generate another number with the digits in reverse order.
+12. Generate a random integer number with 4 digits and generate another number with the digits in reverse order.
     e.g.
     Number = 1234
     Inverted = 4321
