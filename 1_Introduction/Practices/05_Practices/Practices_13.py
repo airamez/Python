@@ -1,10 +1,10 @@
 """
 Read a time defined as Hour and Minutes where the Hour will be in military format (0 to 23) and print the time
-as conventional hour representation: Hour:Minutes AM/PM.
+as conventional hour representation: Hour:Minutes am/pm.
     e.g.
     Hour: 17
     Minutes: 45
-    Conventional hour = 5:45 PM
+    Conventional hour = 5:45 pm
 """
 
 hour = int(input("Hour = "))

@@ -34,16 +34,16 @@ Write a program to:
     Number = 1234
     Inverted = 4321
 13. Read a time defined as Hour and Minutes where the Hour will be in military format (0 to 23) and print the time
-    as conventional hour representation: Hour:Minutes AM/PM.
+    as conventional hour representation: Hour:Minutes am/pm.
     e.g.
     Hour: 17
     Minutes: 45
-    Conventional hour = 5:45 PM
-14. Do the inverse of the previous questions.
+    Conventional hour = 5:45 pm
+14. Read a time as Hour, Minute and a Complement (am/pm) and print the time in a military format.
     e.g.
     Hour: 3
     Minutes: 15
-    Complemented: PM
+    Complement: pm
     Military time = 15:15
 15. Read the name, frequency (%) and the numbers of correct answers of a student and print his name and
     Grade based on the table below:
