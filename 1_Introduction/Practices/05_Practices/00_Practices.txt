@@ -42,9 +42,9 @@ Write a program to:
 14. Read a time as Hour, Minute and a Complement (am/pm) and print the time in a military format.
     e.g.
     Hour: 3
-    Minutes: 15
+    Minutes: 45
     Complement: pm
-    Military time = 15:15
+    Military time = 15:45
 15. Read the name, frequency (%) and the numbers of correct answers of a student and print his name and
     Grade based on the table below:
     0 to 10 questions = Grade D
