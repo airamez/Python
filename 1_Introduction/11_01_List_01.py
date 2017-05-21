@@ -122,3 +122,10 @@ print("List =", languages)
 print("#22 Cleaning the list")
 languages.clear()
 print(languages)
+
+print("Initializing a list with range")
+months = list(range(1, 13))
+print(months)
+
+even_from_1_100 = list(range(2, 101, 2))
+print(even_from_1_100)
