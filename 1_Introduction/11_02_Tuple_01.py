@@ -16,7 +16,7 @@ except TypeError as e:
     print(e)
 
 while True:
-    month = input("Month (ENTER to exit)= ")
+    month = input("Month number (ENTER to exit)= ")
     if month == "":
         break
     month = int(month)

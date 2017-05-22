@@ -1,52 +1,33 @@
-"""
-Bi-dimensional lists
-Most of programming languages offer a bi-dimensional collection called Matrix however line Arrays Python doesn't not
-offer an built-in matrix component. Like Arrays it is possible to simulate an Matrix by creating a list of lists.
-"""
-import random
+my_list = list()
 
-matrix = [[1, 2, 3],
-          [4, 5, 6],
-          [7, 8, 9]]
-print(matrix)
+my_list.append(10)
+my_list.append(3.14)
+my_list.append(100.45)
+my_list.append("Python")
+my_list.append("Java")
+my_list.append(23)
+my_list.append("C#")
+my_list.append(45.49)
+my_list.append("Python")
+my_list.append(99)
 
-for i in range(0, len(matrix)):
-    for j in range(0, len(matrix[0])):
-        print(matrix[i][j], "", end="")
-    print()
+print("Type =", type(my_list))
+print(my_list)
 
-# Creating a "matrix" 5 x 10
-lines = 5
-rows = 10
-matrix = [[0 for i in range(rows)] for j in range(lines)]
-print(matrix)
+for i in range(0, len(my_list)):
+    print(i, my_list[i], type(my_list[i]))
 
-for i in range(0, len(matrix)):
-    for j in range(0, len(matrix[0])):
-        matrix[i][j] = random.randint(100, 500)
-print(matrix)
+print("Only integer")
+for i in range(0, len(my_list)):
+    if isinstance(my_list[i], int):
+        print(i, my_list[i], type(my_list[i]))
 
-for i in range(0, len(matrix)):
-    for j in range(0, len(matrix[0])):
-        print(matrix[i][j], "", end="")
-    print()
+print("Only float")
+for i in range(0, len(my_list)):
+    if isinstance(my_list[i], float):
+        print(i, my_list[i], type(my_list[i]))
 
-# Creating an empty "matrix" and adding values to it
-matrix = list()
-
-matrix.append([])
-matrix[0].append(1)
-matrix[0].append(2)
-matrix[0].append(3)
-
-matrix.append([])
-matrix[1].append(4)
-matrix[1].append(5)
-matrix[1].append(6)
-
-matrix.append([])
-matrix[2].append(7)
-matrix[2].append(8)
-matrix[2].append(9)
-
-print(matrix)
+print("Only string")
+for i in range(0, len(my_list)):
+    if isinstance(my_list[i], str):
+        print(i, my_list[i], type(my_list[i]))
