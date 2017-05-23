@@ -88,6 +88,7 @@ except ValueError as e:
 print("#17 Checking if exists")
 if "Python" in languages:
     print("Python found")
+print("PythonXX" in languages)
 
 print("#18 Checking if NOT exists")
 if "Cobol" not in languages:
