@@ -117,10 +117,15 @@ print("[5:]", languages_5_to_end)
 languages_0_to_5 = languages[:6]
 print("[:6]", languages_0_to_5)
 languages_copy = languages[:]
-print("[:]", languages_copy)
+print("Copy =", languages_copy)
 print("List =", languages)
 
-print("#22 Cleaning the list")
+print("#22 Removing elements using del + slices")
+print("Copy =", languages_copy)
+del languages_copy[3:6]
+print("Copy =", languages_copy)
+
+print("#23 Cleaning the list")
 languages.clear()
 print(languages)
 
