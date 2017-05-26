@@ -21,7 +21,8 @@ except KeyError as e:
 
 # Accessing a value from a key using the get method
 print("months.get(3) =", months.get(3))
-print("months.get(99) =", months.get(99))
+# Accessing a key that doesn't exist
+print("months.get(99) =", months.get(99))  # Doesn't raise exception
 # Accessing a value from a key using the get method and using a default value
 print('months.get(99, "N/A") =', months.get(99, "N/A"))
 
@@ -48,7 +49,10 @@ try:
     may = months.pop(5)  # Raise an exception
 except KeyError as e:
     print(type(e), e)
+# Removing using a Default value
 may = months.pop(5, "N/A")
+print(may)
+may = months.pop(5, None)
 print(may)
 
 countries = dict()
