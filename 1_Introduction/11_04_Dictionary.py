@@ -49,17 +49,22 @@ try:
     may = months.pop(5)  # Raise an exception
 except KeyError as e:
     print(type(e), e)
-# Removing using a Default value
+
+# Removing an element using a Default value
 may = months.pop(5, "N/A")
 print(may)
 may = months.pop(5, None)
 print(may)
 
+# Initializing a Dictionary
 countries = dict()
+# Adding elements
 countries["BRA"] = "Brazil"
 countries["CAN"] = "Canada"
 countries["USA"] = "United States of America"
 countries["MEX"] = "Mexico"
+
+# Testing if a a Key exists in the Dictionary
 print("Countries =", countries)
 print("BRA = ", countries["BRA"])
 if "CAN" in countries:
