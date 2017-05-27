@@ -1,0 +1,3 @@
+Practices
+---------
+From now on, create unit testing for all you programs
