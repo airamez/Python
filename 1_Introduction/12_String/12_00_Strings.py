@@ -13,7 +13,9 @@ CHARS_PER_LINE = 100
 for i in range(0, 2 ** 16, CHARS_PER_LINE):
     for j in range(i, i + CHARS_PER_LINE):
         try:
-            print(chr(j), end='')
+            char = chr(j)
+            if char.isprintable():
+                print(char, end='')
         except UnicodeEncodeError:
             pass
     print()
