@@ -24,7 +24,7 @@ except TypeError as e:
 new_string = phrase + str(integer)
 print(new_string)
 
-print("# Accessing all characters of a string")
+print("# Looping through all characters of a string")
 for c in first_name:
     print(c)
 for i in range(0, len(first_name)):

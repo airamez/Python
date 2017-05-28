@@ -37,9 +37,11 @@ print(phrase.endswith("Computer"))
 
 print("# Count")
 s = "aaabbb aaabbb"
-print(s.count("a"))
-print(s.count("b"))
-print(s.count("c"))
-print(s.count("aaa"))
-print(s.count("aaabbb"))
+print(s)
+print("a =", s.count("a"))
+print("b =", s.count("b"))
+print("c =", s.count("c"))
+print("aaa =", s.count("aaa"))
+print("aaabbb =", s.count("aaabbb"))
+print("abbb a =", s.count("abbb a"))
 
