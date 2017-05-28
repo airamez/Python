@@ -2,7 +2,7 @@
 # The goals of this course is to:
   * Fill the gap of books and tutorials about coding
   * Cover fundamentals topics with a practical approach
-  * Yourtub play list: https://www.youtube.com/playlist?list=PLgfFNYzdoDjp4c6Ba5APSMUjiL2uUl1_k
+  * Yourtube play list: https://www.youtube.com/playlist?list=PLgfFNYzdoDjp4c6Ba5APSMUjiL2uUl1_k
 
 ## Why python: Google :)
 ## Python
