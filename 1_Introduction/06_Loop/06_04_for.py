@@ -1,3 +1,2 @@
-for i in range(0, 100, 5):
-    print(i)
-print()
+for i in range(20, -20, -1):
+        print(i)
