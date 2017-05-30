@@ -4,7 +4,7 @@ start = 1
 #   continue - skip the current interaction
 #   break - ends the loop
 i = start
-while True:
+while True:  # Lopping forever. A break statement is required to finish the looping
     i += 1
     if i % 2 != 0:
         continue  # Jump to the begin of the while ignoring the next statements

@@ -8,7 +8,7 @@ for i in range(1, 10):
 
 print()
 for i in range(1, 10):
-    if i < 9:
+    if i < 9:  # Adding the "," after all number but not the last one
         print("{0}, ".format(i), end="")
     else:
         print(i)
