@@ -1,15 +1,15 @@
 Practices
 ---------
 - Create a program to:
-01. Print the numbers from 1 to 1000
-02. Read two integer numbers representing an interval and print all numbers inside the interval
-03. Read two integer numbers representing an interval and print all even numbers inside the interval
-04. Read integer numbers (flag = empty) and print the average
-05. Read integer numbers (flag = empty) and print the highest value
-06. Read integer numbers (flag = empty) and print the smallest value and it's frequency
-07. Print the Fibonacci sequence while the term is smaller than 5000
+01. Print the numbers from 1 to 1000.
+02. Read two integer numbers representing an interval and print all numbers inside the interval.
+03. Read two integer numbers representing an interval and print all even numbers inside the interval.
+04. Read integer numbers (flag = empty) and print the average.
+05. Read integer numbers (flag = empty) and print the highest value.
+06. Read integer numbers (flag = empty) and print the smallest value and it's frequency.
+07. Print the Fibonacci sequence while the term is smaller than 5000.
     Fibonacci = 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...
-08. Print the multiplication table for numbers from 0 to 9
+08. Print the multiplication table for numbers from 0 to 9.
     e.g.
     0 x 0 = 0
     0 x 1 = 0
@@ -57,7 +57,7 @@ Practices
       31 to 40 => 36
       31 to 35 => 35
       Congratulations you guessed the right number with 6 attempts !
-12. Read an integer number with any length and reverse it's digits
+12. Read an integer number with any length and reverse it's digits.
     e.g
     Input = 12345
     Output = 54321
@@ -75,7 +75,7 @@ Practices
     *****
     ******
     *******
-16. Same as the previous question but starting from the right
+16. Same as the previous question but starting from the right.
     e.g.
     Height = 7
           *
