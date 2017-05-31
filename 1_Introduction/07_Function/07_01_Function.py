@@ -1,5 +1,5 @@
 """
-A function is a block code that is used to perform an action.
+A function is a block of code that is used to perform an action.
 Functions help to keep your code clean, easy to understand, provide better modularity for 
 your application and a high degree of code reusing.
 The return statement of a function terminate the function execution and return the value
