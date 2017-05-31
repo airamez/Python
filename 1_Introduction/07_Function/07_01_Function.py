@@ -2,9 +2,13 @@
 A function is a block of code that is used to perform an action.
 Functions help to keep your code clean, easy to understand, provide better modularity for 
 your application and a high degree of code reusing.
-The return statement of a function terminate the function execution and return the value
-Every function is python returns a value even if the function does not have a return statement. In this case a special
-value will be returned: None
+A Function represents a "mini-program" that can be executed with or without parameters and returns a value.
+The "return" statement indicates the value that will be returned by he Function.
+The return statement of a function terminate the function execution and return the value.
+Every function in python returns a value even if the function does not have a return statement.
+In this case the special value "None" will be return at the end of the Function execution.
+In computer programming when a Function doesn't not have a return statement it is called a Procedure.
+However in Python there is no concept of Procedure.
 """
 
 # Two blank likes are required before a function

@@ -1,3 +1,3 @@
 Practices
 ---------
-# TODO: Prepare this file
+# From now use Modules for all exercises when you think it is appropriated.
