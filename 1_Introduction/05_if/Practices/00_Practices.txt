@@ -67,7 +67,7 @@ Write a program to:
     100,000 and above	1%
 17. Read four integer numbers and print the ones divisible by 2 and 3.
 18. Read three integer numbers and print them in ascending order.
-19. Write a program to generate a random integer number between 0 and 100 and give the user 5 changes to guess the
+19. Write a program to generate a random integer number between 0 and 100 and give the user 5 chances to guess the
     number. For every guess inform if the generated number is smaller or greater than the guessed number.
     As soon as the user guess the number correctly, stop the game and print a victory message.
     If the user doesn't guess the number print a defeat message.
