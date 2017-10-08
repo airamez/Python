@@ -9,6 +9,6 @@ while True:  # Lopping forever. A break statement is required to finish the loop
     if i % 2 != 0:
         continue  # Jump to the begin of the while ignoring the next statements
     if i >= 50:
-        break  # Ends the loop. Move to the next command (The one after thw while)
+        break  # Ends the loop. Move to the next command (The one after the while)
     print("{0}, ".format(i), end="")
-print()
+print("This is a command after the while")

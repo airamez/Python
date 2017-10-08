@@ -1,6 +1,6 @@
+# for using a interval
 start = 1
 end = 10
-for i in range(start, end + 1):
-    print('{0}{1} '.format(i, "," if i != end else ""), end="")
-print()
-
+for i in range(start, end):
+    print(i)
+print("This is a command after the for loop")
