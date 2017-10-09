@@ -11,6 +11,6 @@ for i in range(5, -5, -1):
 # Move to the next line
 print()
 
-# ATTENTION. Not will be printed
+# ATTENTION. Nothing will be printed
 for i in range(10, 1, 1):
     print(i)

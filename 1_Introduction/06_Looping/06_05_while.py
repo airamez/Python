@@ -7,4 +7,4 @@ while i <= end:
     print("{0}, ".format(i), end="")
     i += 1
     # Everything aligned/indented inside the while statement is part of the while statement
-print("This is a command after the while")
+print("\nThis is a command after the while")

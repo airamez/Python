@@ -11,4 +11,4 @@ while True:  # Lopping forever. A break statement is required to finish the loop
     if i >= 50:
         break  # Ends the loop. Move to the next command (The one after the while)
     print("{0}, ".format(i), end="")
-print("This is a command after the while")
+print("\nThis is a command after the while")
