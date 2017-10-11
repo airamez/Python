@@ -1,6 +1,4 @@
-# for using a interval
-start = 1
-end = 10
-for i in range(start, end):
-    print(i)
-print("This is a command after the for loop")
+# for printing in the same line
+for i in range(1, 10):
+    print("{0}, ".format(i), end="")
+print("\nThis is after the for")

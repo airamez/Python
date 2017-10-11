@@ -1,16 +1,4 @@
-# for using a reversed interval
-for i in range(10, 0, -1):
-    print(i, ", ", end="")
-
-# Move to the next line
-print()
-
-for i in range(5, -5, -1):
-    print(i, ", ", end="")
-
-# Move to the next line
-print()
-
-# ATTENTION. Nothing will be printed
-for i in range(10, 1, 1):
+# for using range with skip parameters
+for i in range(0, 50, 5):
     print(i)
+print("This is a command after the for loop")

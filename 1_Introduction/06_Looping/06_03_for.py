@@ -1,4 +1,7 @@
-# for using range with skip parameters
-for i in range(0, 50, 5):
-    print(i)
-print("This is a command after the for loop")
+# Printing in the same line and not adding the "," after the last number
+for i in range(1, 10):
+    if i < 9:
+        print("{0}, ".format(i), end="")
+    else:
+        print(i)
+print("This is after the for")

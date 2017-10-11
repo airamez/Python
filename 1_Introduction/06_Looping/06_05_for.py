@@ -1,9 +1,6 @@
+# for using a interval
 start = 1
 end = 10
-
-# Nested loops
-# Prints the multiplication table
-for i in range(start - 1, end + 1):
-    for j in range(start - 1, end + 1):
-        print("{0} x {1} = {2}".format(i, j, i * j))
-print("This is a command after the for loops")
+for i in range(start, end):
+    print(i)
+print("This is a command after the for loop")
