@@ -1,9 +1,7 @@
-start = 1
-
 # while with continue and break:
 #   continue - skip the current interaction
 #   break - ends the loop
-i = start
+i = 1
 while True:  # Lopping forever. A break statement is required to finish the looping
     i += 1
     if i % 2 != 0:
