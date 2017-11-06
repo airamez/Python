@@ -8,7 +8,6 @@ for i in range(1, 10):
         print(i)
 print("This is after the for")
 
-
 # 2
 for i in range(1, 10):
     print("{0}{1}".format(i, ", " if i < 9 else "\n"), end="")
