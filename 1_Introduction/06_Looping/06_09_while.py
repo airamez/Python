@@ -1,12 +1,10 @@
 start = 1
 end = 10
 
-# Printing the numbers from start to end however in the same line and removing the last ','
+# Printing the numbers from start to end in the same line
 i = start
 while i <= end:
-    if i < end:
-        print("{0}, ".format(i), end="")
-    else:
-        print(i)
+    print("{0} ".format(i), end="")
     i += 1
-print("This is a command after the while")
+    # Everything aligned/indented inside the while statement is part of the while statement
+print("\nThis is a command after the while")
