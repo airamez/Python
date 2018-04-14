@@ -8,7 +8,7 @@ Practices
 05. Read integer numbers (flag = empty) and print the highest value.
 06. Read integer numbers (flag = empty) and print the smallest value and it's frequency.
 07. Print the Fibonacci sequence while the term is smaller than 5000.
-    Fibonacci = 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...
+    Fibonacci = 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 08. Print the multiplication table for numbers from 0 to 9.
     e.g.
     0 x 0 = 0
