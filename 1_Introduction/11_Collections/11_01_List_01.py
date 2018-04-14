@@ -22,7 +22,7 @@ print("List length =", len(languages))
 print("List length =", languages.__len__())
 
 print("#4 Accessing list elements")
-for i in range(1, len(languages)):
+for i in range(0, len(languages)):
     print(i, "=", languages[i])
 
 print("#5 List inverted")

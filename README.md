@@ -1,8 +1,8 @@
-# This is a complete course of coding using python as programming language.
-# The goals of this course is to:
-  * Fill the gap of books and tutorials about coding
+# This is a complete course of coding using python.
+# The goals of this course are to:
+  * Fill the gaps of books and tutorials about coding
   * Cover fundamentals topics with a practical approach
-  * Yourtube play list: https://www.youtube.com/playlist?list=PLgfFNYzdoDjp4c6Ba5APSMUjiL2uUl1_k
+  * Youtube play list: https://www.youtube.com/playlist?list=PLgfFNYzdoDjp4c6Ba5APSMUjiL2uUl1_k
 
 ## Why python: Google :)
 ## Python

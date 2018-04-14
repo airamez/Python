@@ -1,7 +1,7 @@
 start = 1
 end = 10
 
-# Printing the numbers from start to end however in the same line and removing the last ','
+# Printing the numbers from start to end in the same line however removing the last ','
 i = start
 while i <= end:
     if i < end:
@@ -9,4 +9,4 @@ while i <= end:
     else:
         print(i)
     i += 1
-print()
+print("This is a command after the while")

@@ -48,34 +48,35 @@ class MyUnitTesting (unittest.TestCase):
     """
 
     def test_01_fat_0(self):
-        self.assertEqual(1, factorial(0), "Zero Factorial")
+        self.assertEqual(factorial(0), 1, "Zero Factorial")
 
     def test_02_fat_1(self):
-        self.assertEqual(1, factorial(1), "One Factorial")
+        self.assertEqual(factorial(1), 1, "One Factorial")
 
     def test_03_fat_2(self):
-        self.assertEqual(2, factorial(2))
+        self.assertEqual(factorial(2), 2)
 
     def test_04_fat_3(self):
-        self.assertEqual(6, factorial(3))
+        self.assertEqual(factorial(3), 6)
 
     def test_05_fat_4(self):
-        self.assertEqual(24, factorial(4))
+        self.assertEqual(factorial(4), 24)
 
     def test_06_fat_7(self):
-        self.assertEqual(5040, factorial(7))
+        self.assertEqual(factorial(7), 5040)
 
     def test_07_fat_12(self):
-        self.assertEqual(479001600, factorial(12))
+        self.assertEqual(factorial(12), 479001600)
 
-    def test_09_fat_50(self):
-        self.assertEqual(30414093201713378043612608166064768844377641568960512000000000000, factorial(50))
+    def test_08_fat_50(self):
+        self.assertEqual(factorial(50), 30414093201713378043612608166064768844377641568960512000000000000)
 
-    def test_10_fat_2_and_3(self):
+    def test_09_fat_2_and_3(self):
         self.assertNotEqual(factorial(2), factorial(3))
 
-    def test_11_fat_4_and_4(self):
+    def test_10_fat_4_and_4(self):
         self.assertTrue(factorial(4) < factorial(5))
+
 
 # This is the statement that executes the Unit tests
 if __name__ == '__main__':
