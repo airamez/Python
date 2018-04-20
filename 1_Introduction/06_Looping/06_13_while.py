@@ -1,8 +1,9 @@
 # Reading values with a FLAG
 while True:
     number = input("Type a integer number or [Enter] to exit = ")
-    if number == "":  # If the user type <Enter> without anything else the number will be an empty string
+    if number:  # Anything different of False, None, 0, "", (), [], {} is True
+        number = int(number)
+        print("This is your number = ", number)
+    else:  # All these values are False: False, None, 0, "", (), [], {}
         break
-    number = int(number)
-    print("This is your number = ", number)
 print("Bye bye!")
